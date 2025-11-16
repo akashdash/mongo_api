@@ -1,0 +1,6 @@
+mongodb+srv://akkash_dash_db:akash1991@cluster0.y6qzsei.mongodb.net/?appName=Cluster0
+
+python -m pip install "pymongo[srv]"
+
+username: akkash_dash_db
+pass: akash1991
