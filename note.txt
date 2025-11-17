@@ -1,6 +1,10 @@
 mongodb+srv://akkash_dash_db:akash1991@cluster0.y6qzsei.mongodb.net/?appName=Cluster0
 
+https://mongo-api-7anc.onrender.com
+
 python -m pip install "pymongo[srv]"
 
 username: akkash_dash_db
 pass: akash1991
+
+neondb: psql 'postgresql://neondb_owner:npg_kf40WcbaLDRE@ep-morning-tooth-adavl9ry-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
